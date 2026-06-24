@@ -1,1 +1,1 @@
-# VehiculoIR-Integraci-nTecnol-gica
+# VehiculoIR-IntegracionTecnologica
